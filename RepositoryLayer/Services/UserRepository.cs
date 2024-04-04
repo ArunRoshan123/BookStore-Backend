@@ -40,7 +40,8 @@ namespace RepositoryLayer.Services
                 throw new Exception("User already exist");
             }
             else
-            {
+            {/*
+                context.UserTables.Add(entity);*/
                 context.UserTables.Add(entity);
                 context.SaveChanges();
                 return entity;

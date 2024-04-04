@@ -7,7 +7,8 @@ using System.Text;
 namespace ManagerLayer.Interfaces
 {
     public interface IUserManager
-    {
+    {/*
+        public UserEntity UserRegisteration(RegisterModel model);*/
         public UserEntity UserRegisteration(RegisterModel model);
         public string UserLogin(LoginModel model);
         public string GenerateToken(string Email, int UserId);

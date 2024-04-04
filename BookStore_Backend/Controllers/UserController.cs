@@ -29,6 +29,7 @@ namespace BookStore_Backend.Controllers
         [Route("Reg")]
         public ActionResult Register(RegisterModel model)
         {
+            /*hi my name is arun*/
             try
             {
                 var response = userManager.UserRegisteration(model);

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\BookStore-Backend\\BookStore_Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CC148E2-A9A7-4478-AEE8-475814DE2E5F}|..\\RepositoryLayer\\RepositoryLayer.csproj|d:\\bookstore-backend\\repositorylayer\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D0AA4-57C2-4FC7-9890-ED354CA33D3B}|BookStore_Backend.csproj|d:\\bookstore-backend\\bookstore_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D0AA4-57C2-4FC7-9890-ED354CA33D3B}|BookStore_Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE3BDF3-7F8B-431A-9227-43B52B7986B0}|..\\ManagerLayer\\ManagerLayer.csproj|d:\\bookstore-backend\\managerlayer\\interfaces\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE3BDF3-7F8B-431A-9227-43B52B7986B0}|..\\ManagerLayer\\ManagerLayer.csproj|d:\\bookstore-backend\\managerlayer\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC148E2-A9A7-4478-AEE8-475814DE2E5F}|..\\RepositoryLayer\\RepositoryLayer.csproj|d:\\bookstore-backend\\repositorylayer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B0D0AA4-57C2-4FC7-9890-ED354CA33D3B}|BookStore_Backend.csproj|d:\\bookstore-backend\\bookstore_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0D0AA4-57C2-4FC7-9890-ED354CA33D3B}|BookStore_Backend.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,8 +46,73 @@
       "DocumentGroups": [
         {
           "DockedHeight": 407,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:58:55.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IUserManager.cs",
+              "RelativeDocumentMoniker": "..\\ManagerLayer\\Interfaces\\IUserManager.cs",
+              "ToolTip": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IUserManager.cs",
+              "RelativeToolTip": "..\\ManagerLayer\\Interfaces\\IUserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:56:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "..\\ManagerLayer\\Services\\UserManager.cs",
+              "ToolTip": "D:\\BookStore-Backend\\ManagerLayer\\Services\\UserManager.cs",
+              "RelativeToolTip": "..\\ManagerLayer\\Services\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:56:28.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:55:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Services\\UserRepository.cs",
+              "ToolTip": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\UserRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Services\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:54:40.716Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -46,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\BookStore-Backend\\BookStore_Backend\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -59,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "WishListController.cs",
               "DocumentMoniker": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\WishListController.cs",
               "RelativeDocumentMoniker": "Controllers\\WishListController.cs",
@@ -71,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "WishListManager.cs",
               "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Services\\WishListManager.cs",
               "RelativeDocumentMoniker": "..\\ManagerLayer\\Services\\WishListManager.cs",
@@ -83,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IWishListManager.cs",
               "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IWishListManager.cs",
               "RelativeDocumentMoniker": "..\\ManagerLayer\\Interfaces\\IWishListManager.cs",
@@ -95,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IWishListRepository.cs",
               "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IWishListRepository.cs",
               "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interfaces\\IWishListRepository.cs",
@@ -107,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "WishListRepository.cs",
               "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\WishListRepository.cs",
               "RelativeDocumentMoniker": "..\\RepositoryLayer\\Services\\WishListRepository.cs",

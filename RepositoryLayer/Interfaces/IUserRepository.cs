@@ -7,7 +7,8 @@ using System.Text;
 namespace RepositoryLayer.Interfaces
 {
     public interface IUserRepository
-    {
+    {/*
+        public UserEntity UserRegisteration(RegisterModel model);*/
         public UserEntity UserRegisteration(RegisterModel model);
         public string UserLogin(LoginModel model);
         public string GenerateToken(string Email, int UserId);
