@@ -23,6 +23,9 @@ namespace ManagerLayer.Services
         {
             return repository.UserRegisteration(model);
         }
+
+        /*User login*/
+
         public string UserLogin(LoginModel model)
         {
             return repository.UserLogin(model);

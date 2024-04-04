@@ -46,73 +46,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 407,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwB8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:58:55.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserManager.cs",
-              "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IUserManager.cs",
-              "RelativeDocumentMoniker": "..\\ManagerLayer\\Interfaces\\IUserManager.cs",
-              "ToolTip": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IUserManager.cs",
-              "RelativeToolTip": "..\\ManagerLayer\\Interfaces\\IUserManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:56:56.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Services\\UserManager.cs",
-              "RelativeDocumentMoniker": "..\\ManagerLayer\\Services\\UserManager.cs",
-              "ToolTip": "D:\\BookStore-Backend\\ManagerLayer\\Services\\UserManager.cs",
-              "RelativeToolTip": "..\\ManagerLayer\\Services\\UserManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:56:28.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "..\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:55:49.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Services\\UserRepository.cs",
-              "ToolTip": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\UserRepository.cs",
-              "RelativeToolTip": "..\\RepositoryLayer\\Services\\UserRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:54:40.716Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -127,6 +62,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:58:55.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IUserManager.cs",
+              "RelativeDocumentMoniker": "..\\ManagerLayer\\Interfaces\\IUserManager.cs",
+              "ToolTip": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IUserManager.cs",
+              "RelativeToolTip": "..\\ManagerLayer\\Interfaces\\IUserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:56:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "..\\ManagerLayer\\Services\\UserManager.cs",
+              "ToolTip": "D:\\BookStore-Backend\\ManagerLayer\\Services\\UserManager.cs",
+              "RelativeToolTip": "..\\ManagerLayer\\Services\\UserManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:56:28.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:55:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Services\\UserRepository.cs",
+              "ToolTip": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\UserRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Services\\UserRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:54:40.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\BookStore-Backend\\BookStore_Backend\\Startup.cs",
@@ -135,8 +135,7 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAgwDkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T05:30:53.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T05:30:53.533Z"
             },
             {
               "$type": "Document",
