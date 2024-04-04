@@ -48,6 +48,8 @@ namespace BookStore_Backend.Controllers
             }
         }
 
+        /*User login*/
+
         [HttpPost]
         [Route("Log")]
         public ActionResult Login(LoginModel model)

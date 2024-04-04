@@ -48,6 +48,7 @@ namespace RepositoryLayer.Services
             }
         }
 
+        /*User login*/
         public string UserLogin(LoginModel model)
         {
 
