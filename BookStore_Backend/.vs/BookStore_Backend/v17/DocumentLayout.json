@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BookStore-Backend\\BookStore_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D0AA4-57C2-4FC7-9890-ED354CA33D3B}|BookStore_Backend.csproj|d:\\bookstore-backend\\bookstore_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D0AA4-57C2-4FC7-9890-ED354CA33D3B}|BookStore_Backend.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE3BDF3-7F8B-431A-9227-43B52B7986B0}|..\\ManagerLayer\\ManagerLayer.csproj|d:\\bookstore-backend\\managerlayer\\services\\wishlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE3BDF3-7F8B-431A-9227-43B52B7986B0}|..\\ManagerLayer\\ManagerLayer.csproj|d:\\bookstore-backend\\managerlayer\\interfaces\\iwishlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D0AA4-57C2-4FC7-9890-ED354CA33D3B}|BookStore_Backend.csproj|d:\\bookstore-backend\\bookstore_backend\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D0AA4-57C2-4FC7-9890-ED354CA33D3B}|BookStore_Backend.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC148E2-A9A7-4478-AEE8-475814DE2E5F}|..\\RepositoryLayer\\RepositoryLayer.csproj|d:\\bookstore-backend\\repositorylayer\\services\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC148E2-A9A7-4478-AEE8-475814DE2E5F}|..\\RepositoryLayer\\RepositoryLayer.csproj|d:\\bookstore-backend\\repositorylayer\\interfaces\\iwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 407,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\BookStore_Backend\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\BookStore-Backend\\BookStore_Backend\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:30:53.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WishListController.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\WishListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WishListController.cs",
+              "ToolTip": "D:\\BookStore-Backend\\BookStore_Backend\\Controllers\\WishListController.cs",
+              "RelativeToolTip": "Controllers\\WishListController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:33:09.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WishListManager.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Services\\WishListManager.cs",
+              "RelativeDocumentMoniker": "..\\ManagerLayer\\Services\\WishListManager.cs",
+              "ToolTip": "D:\\BookStore-Backend\\ManagerLayer\\Services\\WishListManager.cs",
+              "RelativeToolTip": "..\\ManagerLayer\\Services\\WishListManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:29:25.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWishListManager.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IWishListManager.cs",
+              "RelativeDocumentMoniker": "..\\ManagerLayer\\Interfaces\\IWishListManager.cs",
+              "ToolTip": "D:\\BookStore-Backend\\ManagerLayer\\Interfaces\\IWishListManager.cs",
+              "RelativeToolTip": "..\\ManagerLayer\\Interfaces\\IWishListManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:29:03.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWishListRepository.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IWishListRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interfaces\\IWishListRepository.cs",
+              "ToolTip": "D:\\BookStore-Backend\\RepositoryLayer\\Interfaces\\IWishListRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interfaces\\IWishListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:25:15.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WishListRepository.cs",
+              "DocumentMoniker": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\WishListRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Services\\WishListRepository.cs",
+              "ToolTip": "D:\\BookStore-Backend\\RepositoryLayer\\Services\\WishListRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Services\\WishListRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:24:46.511Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 269,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

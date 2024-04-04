@@ -1,0 +1,16 @@
+D:\BookStore-Backend\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+D:\BookStore-Backend\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+D:\BookStore-Backend\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+D:\BookStore-Backend\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\BookStore-Backend\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache
+D:\BookStore-Backend\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\BookStore-Backend\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\BookStore-Backend\RepositoryLayer\obj\Debug\netcoreapp3.1\Reposito.A0A61804.Up2Date
