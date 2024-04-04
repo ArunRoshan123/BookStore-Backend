@@ -11,6 +11,10 @@ namespace ManagerLayer.Services
     public class UserManager:IUserManager
     {
         private readonly IUserRepository repository;
+        /*public UserManager(IUserRepository repository)
+        {
+            this.repository = repository;
+        }*/
         public UserManager(IUserRepository repository)
         {
             this.repository = repository;
